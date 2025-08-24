@@ -7,5 +7,6 @@ int main()
     scanf("%f",&h);
     h=h*48;
     printf("total rupees is : %f",h);
-
+    return 0;
 }
+
