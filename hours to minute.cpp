@@ -8,4 +8,6 @@ int main()
     h=h*60;
     printf("The time in minutes is : %f",h);
 
+    return 0;
 }
+
